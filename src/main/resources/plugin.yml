@@ -1,0 +1,4 @@
+name: BetterFireballs
+version: '${project.version}'
+main: ir.flamedevelopment.BetterFireballs
+api-version: 1.19
